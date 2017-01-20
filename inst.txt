@@ -1,0 +1,2 @@
+bob	local	00001000
+alice	local	00002000
